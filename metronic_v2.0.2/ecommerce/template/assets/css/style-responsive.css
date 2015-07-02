@@ -426,6 +426,7 @@
 
 /* BEGIN max width 480px */
 @media (max-width: 480px) {
+
 	.content-form-page .btn
 	{
 		margin-top:10px;

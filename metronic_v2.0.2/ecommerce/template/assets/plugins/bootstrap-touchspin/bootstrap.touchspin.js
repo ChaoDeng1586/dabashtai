@@ -37,7 +37,7 @@
 
         var defaults = {
             min: 0,
-            max: 100,
+            max: 999,
             initval: "",
             step: 1,
             decimals: 0,

@@ -1994,7 +1994,8 @@ div.content-form-page {
 	overflow: hidden;
 }
 .product-page-options .pull-left {
-	margin-right: 40px;
+	margin-right: 104px;
+    margin-top: 20px;
 }
 .product-page-options .pull-left:last-child {
 	margin-right: 0;
@@ -3264,4 +3265,36 @@ select{display: none;}
 	max-width:100%;
 	height:auto;
 	}
-	
+ul.automatically
+{
+	width:100%;
+	margin:0;
+	padding:0;
+	margin-top:20px;
+	}
+ul.automatically li
+{
+	float:left;
+	list-style:none;
+	width:33.33%;
+	border-right:1px solid #ccc;
+	font-size:14px;
+	color:#404040;
+	line-height:14px;
+	position:relative
+	}
+ul.automatically li a
+{
+	color:#404040;
+	}
+ul.automatically li a:hover
+{
+	color:#187705;
+	}
+.common_chk
+{
+	height: 13px;
+    left: 8px;
+    position: absolute;
+    top: -3px;
+	}
